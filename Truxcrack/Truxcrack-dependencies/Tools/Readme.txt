@@ -1,0 +1,1 @@
+These pdf2hashcat and office2hashcat are modified for use with newer python versions. All credit goes to the respective owners.
