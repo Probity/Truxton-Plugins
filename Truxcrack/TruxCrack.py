@@ -275,7 +275,7 @@ def main():
     etl.sendmefiles(truxton.Type_Password_Dump, 500)
     etl.sendmefiles(truxton.Type_Encrypted_Office_2016_Document, 500)
     etl.sendmefiles(truxton.Type_Adobe_PDF, 500)
-    os.chdir(".\\Truxcrack\\" + hashcatDir)
+    os.chdir(truxCrackDir + hashcatDir)
 
     message = etl.getmessage()
     while message is not None:
