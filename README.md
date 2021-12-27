@@ -1,7 +1,7 @@
 # Truxton-Plugins
 This is a repository of Truxton Python Plugins. You can download plugins use them at your own discretion. You may also submit your own modules for consideration.
 # Running a Plugin
-To run a plugin, simply open a command prompt (usually with elevated privledges) and run the python script.
+To run a plugin, simply open a command prompt (usually with elevated privileges) and run the python script.
 # Submitting a Plugin
 When submitting a plugin, its important to include the following information:
 
